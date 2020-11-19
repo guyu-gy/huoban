@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: fitness
+    url: jdbc:mysql://localhost:3306/fitness?serverTimezone=UTC #url
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
