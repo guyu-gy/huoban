@@ -9,11 +9,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>ysShop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
-    <description>Demo project for Spring Boot</description>
-
+    <name>ysShop</name>
+    <description>YsShop project for Spring Boot</description>
+    <packaging>pom</packaging>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.0-SNAPSHOT</spring-cloud.version>
